@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/tech/static/js/main.269df76c.js",
+    "static/media/helmet.svg": "/tech/static/media/helmet.13588aae74c033ba48a66282bda6a657.svg",
+    "index.html": "/tech/index.html",
+    "main.269df76c.js.map": "/tech/static/js/main.269df76c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.269df76c.js"
+  ]
+}
